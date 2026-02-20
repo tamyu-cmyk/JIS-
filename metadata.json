@@ -1,0 +1,5 @@
+{
+  "name": "JIS普通公差計算ツール",
+  "description": "JIS B 0405-1991に基づく長さ寸法の普通公差を自動計算するアプリです。",
+  "requestFramePermissions": []
+}
